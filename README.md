@@ -1,15 +1,15 @@
 ---
-title: F7-Boosting-Cardanos-DeFi 
-description: How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
-Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
+title: F7 - DApps & Integrations
+description: What applications will provide the most value for end users in 2022?
+Ideascale: https://cardano.ideascale.com/a/campaign-home/26240
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
+![2021-11-26 (4)](https://user-images.githubusercontent.com/25156451/143625589-83041d24-125c-42fb-82ec-77dae53223bd.png)
 
-# F7: Boosting Cardano's DeFi
+# F7 - DApps & Integrations
 
-How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+What applications will provide the most value for end users in 2022?
 
-Welcome to the GitHub repository of F7: Boosting Cardano's DeFi
+Welcome to the GitHub repository of F7 - DApps & Integrations
 
 ## To participate :
 * Submit issues
@@ -17,7 +17,7 @@ Welcome to the GitHub repository of F7: Boosting Cardano's DeFi
 * Submit Pull Requests
 
 ### Open source documents 
-- [Code of Conduct](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi/blob/main/CODE-OF-CONDUCT.md)
+- [Code of Conduct](https://github.com/Catalyst-Challenges/DApps-and-Integrations/blob/main/CODE-OF-CONDUCT.md)
 - [Contribute](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi/blob/main/CONTRIBUTE.md)
 - [Licence](https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi/blob/main/LICENSE)
 
